@@ -18,4 +18,7 @@
   <build>
     <finalName>WebApp</finalName>
   </build>
+  <properties>
+  <sonar.organization>sudhakar527</sonar.organization>
+</properties>
 </project>
